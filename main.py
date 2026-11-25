@@ -7,7 +7,7 @@ import os
 
 TEXT = (
     "3am: I'm holding your leftovers. I've thought about this. "
-    "We both know you're getting up. Bring a plate."
+    "We both know you're getting up. Bring a plate. I'll wait."
 )
 
 path = "/output/entry.txt"
